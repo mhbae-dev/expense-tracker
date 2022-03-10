@@ -11,8 +11,8 @@ function App() {
       </h1>
 
       <div className="grid md:grid-cols-2 gap-4">
-        <Graph/>
-        <Form/>
+        <Graph />
+        <Form />
       </div>
     </div>
   );
